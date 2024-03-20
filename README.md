@@ -1,4 +1,6 @@
-# filesystem
+# Glaive
+
+Interact with the filesystem in Gleam.
 
 [![Package Version](https://img.shields.io/hexpm/v/glaive)](https://hex.pm/packages/glaive)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/glaive/)

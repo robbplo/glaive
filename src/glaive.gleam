@@ -1,4 +1,4 @@
-import erlang/file.{type OkResult, type Reason}
+import file.{type OkResult, type Reason}
 import gleam/io
 import gleam/result
 
