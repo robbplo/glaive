@@ -1,4 +1,4 @@
-//// Bindings for the Erlang file module
+//// Filesystem operations
 
 import gleam/dynamic.{type Dynamic}
 
